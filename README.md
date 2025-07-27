@@ -3,4 +3,4 @@ Theme for Emulationstation and RetroPie.
 
 ## About
 
-Based on "dyabox" From Matt Kennedy (mattrixk)
+Based on "Spare" From Matt Kennedy (mattrixk)
