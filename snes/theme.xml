@@ -1,7 +1,7 @@
 <theme>
 	
 	<formatVersion>4</formatVersion>
-	<include>./../spare.xml</include>
+	<include>./../dyabox.xml</include>
 	
 	<view name="system, basic, detailed">
 

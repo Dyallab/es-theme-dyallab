@@ -1,11 +1,11 @@
 <!--
-theme name:		Spare
+theme name:		Dyabox
 version:		1.0
-author:			Matt Kennedy
-email:			
-website:		
+author:			Jonathan D.
+email:			contacto@jonathan.com.ar
+website:		jonathan.com.ar
 license:		creative commons CC-BY-NC-SA
-based on:		"Carbon" by Eric Hettervik
+based on:		"Spare" by Matt Kennedy
 -->
 
 <theme>
@@ -19,7 +19,7 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<color>d4d4d4</color>
+			<color>243433</color>
 		</image>
 
 		<image name="background_pattern" extra="true">
@@ -27,7 +27,7 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
-			<color>aeaeae</color>
+			<color>3E5A4F</color>
 			<tile>true</tile>
 		</image>
 
@@ -36,12 +36,12 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 1</origin>
 			<pos>0 1</pos>
 			<size>1 0.070</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 		<helpsystem name="help">
-			<textColor>000000</textColor>
-			<iconColor>000000</iconColor>
+			<textColor>243433</textColor>
+			<iconColor>243433</iconColor>
 			<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</helpsystem>
@@ -55,7 +55,7 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 0.18</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<image name="logo">
@@ -69,14 +69,14 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0.05 0.2</pos>
 			<size>0.9 0.71</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<textlist name="gamelist">
-				<selectorColor>000000</selectorColor>
-				<selectedColor>FFFFFF</selectedColor>
-				<primaryColor>000000</primaryColor>
-				<secondaryColor>888888</secondaryColor>
+				<selectorColor>99242B</selectorColor>
+				<selectedColor>F0E5C1</selectedColor>
+				<primaryColor>243433</primaryColor>
+				<secondaryColor>3E5A4F</secondaryColor>
 				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 				<pos>0.05 0.2</pos>
 				<size>0.9 0.71</size>
@@ -92,7 +92,7 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0.01 0.02</pos>
 			<size>0.35 0.89</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<image name="logo">
@@ -102,10 +102,10 @@ based on:		"Carbon" by Eric Hettervik
 			</image>
 
 			<textlist name="gamelist">
-				<selectorColor>000000</selectorColor>
-				<selectedColor>FFFFFF</selectedColor>
-				<primaryColor>000000</primaryColor>
-				<secondaryColor>888888</secondaryColor>
+				<selectorColor>99242B</selectorColor>
+				<selectedColor>F0E5C1</selectedColor>
+				<primaryColor>243433</primaryColor>
+				<secondaryColor>3E5A4F</secondaryColor>
 				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 				<pos>0.02 0.25</pos>
 				<size>0.33 0.64</size>
@@ -118,7 +118,7 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0.37 0.02</pos>
 			<size>0.35 0.62</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<image name="md_image">
@@ -132,11 +132,11 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0.73 0.02</pos>
 			<size>0.26 0.62</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-				<color>000000</color>
+				<color>243433</color>
 				<forceUppercase>1</forceUppercase>
 				<fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
 				<fontSize>0.02</fontSize>
@@ -144,14 +144,14 @@ based on:		"Carbon" by Eric Hettervik
 			</text>
 
 			<text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
-				<color>000000</color>
+				<color>243433</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 				<fontSize>0.024</fontSize>
 				<size>0.23 0.02</size>
 			</text>
 			<datetime name="md_releasedate, md_lastplayed">
-				<color>000000</color>
+				<color>243433</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 				<fontSize>0.024</fontSize>
@@ -222,13 +222,13 @@ based on:		"Carbon" by Eric Hettervik
 			<origin>0 0</origin>
 			<pos>0.37 0.66</pos>
 			<size>0.62 0.25</size>
-			<color>FFFFFF99</color>
+			<color>F0E5C199</color>
 		</image>
 
 			<text name="md_description">
 				<pos>0.38 0.68</pos>
 				<size>0.60 0.21</size>
-				<color>000000</color>
+				<color>243433</color>
 				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
 				<fontSize>0.026</fontSize>
 				<alignment>left</alignment>
